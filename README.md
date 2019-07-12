@@ -18,10 +18,6 @@ if(condition){
   - **IF** the age is less than 18 use `alert()` to tell the user "Sorry, you can't buy lottery tickets."
   - **ELSE** use `alert()` to tell the user "I hope you win the lottery!!!"
   
-##### SIBLINGS?
-- Ask the user if they have any siblings.
-- Save their response as a variable called `hasSiblings`
-- If they say "yes", tell them "Nice, me too!! I have a lot of computer siblings." otherwise, say "That's cool!"
 
 ##### SWEET OR SALTY?
 - Ask the user what kind of snack they want: sweet or salty.
